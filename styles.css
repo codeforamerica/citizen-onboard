@@ -1,19 +1,10 @@
 .slide-content {
-  width: 100%;
   overflow: visible;
-  margin: 0px;
-  padding: 0px;
-}
-
-p {
-  margin: 0px;
-  padding: 0px;
-}
-
-.slide {
-  top:1;
 }
 
 .bleed {
   width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
 }
