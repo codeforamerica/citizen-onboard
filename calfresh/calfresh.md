@@ -119,5 +119,5 @@ controls: true
 
 --
 # Thanks!
-Made by [@lippytak](http://www.twitter.com/lippytak). Want more? [Check out how other government services onboard new users](lippytak.github.io/citizen-onboard).
+Made by [@lippytak](http://www.twitter.com/lippytak). Want more? [Check out how other government services onboard new users](http://lippytak.github.io/citizen-onboard).
 --
