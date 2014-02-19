@@ -8,3 +8,13 @@
   top: 0px;
   left: 0px;
 }
+
+ul {
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+p {
+  margin-bottom: 0px;
+}
