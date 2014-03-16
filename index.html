@@ -419,15 +419,15 @@ p {
     <div class="progress-bar"></div>
   </div>
 
-  <div class="slide" id="slide-1">
+  <div class="slide " id="slide-1">
     <section class="slide-content"><h1 id="citizen-onboard">Citizen Onboard</h1>
-<p>How governments onboard new users, inspired by <a href="http://www.twitter.com/useronboard">@UserOnboard</a>. Here&#39;s what we have so far:</p>
+<p>Citizen onboard is a collaborative project to document and describe how our own government services work (and don&#39;t work). Inspired by the endlessly awesome <a href="http://www.twitter.com/useronboard">@UserOnboard</a>. Here&#39;s what we have so far:</p>
 <ul>
-<li><a href="calfresh">CalFresh</a></li>
-<li><a href="coveredca">CoveredCA</a></li>
+<li><a href="calfresh">CalFresh</a>, by <a href="http://twitter.com/lippytak">@lippytak</a></li>
+<li><a href="coveredca">CoveredCA</a> (draft)</li>
 <li>...more coming soon!</li>
 </ul>
-<p>Have an idea for a government service to look at? Want to do one yourself? Get in touch <a href="http://twitter.com/lippytak">@lippytak</a>!</p>
+<p>Want to contribute? Please! Take a look at <a href="https://github.com/lippytak/citizen-onboard">our readme</a> and get in touch with questions <a href="http://twitter.com/lippytak">@lippytak</a>!</p>
 </section>
   </div>
 
@@ -508,6 +508,40 @@ function updateTabIndex() {
   }
 }
 
+/**
+ * Determines whether or not we are currently in full screen mode
+ */
+function isFullScreen() {
+  return document.fullscreenElement ||
+         document.mozFullScreenElement ||
+         document.webkitFullscreenElement ||
+         document.msFullscreenElement;
+}
+
+/**
+ * Toggle fullScreen mode on document element.
+ * Works on chrome (>= 15), firefox (>= 9), ie (>= 11), opera(>= 12.1), safari (>= 5).
+ */
+function toggleFullScreen() {
+  /* Convenient renames */
+  var docElem = document.documentElement;
+  var doc = document;
+
+  docElem.requestFullscreen =
+      docElem.requestFullscreen ||
+      docElem.msRequestFullscreen ||
+      docElem.mozRequestFullScreen ||
+      docElem.webkitRequestFullscreen.bind(docElem, Element.ALLOW_KEYBOARD_INPUT);
+
+  doc.exitFullscreen =
+      doc.exitFullscreen ||
+      doc.msExitFullscreen ||
+      doc.mozCancelFullScreen ||
+      doc.webkitExitFullscreen;
+
+  isFullScreen() ? doc.exitFullscreen() : docElem.requestFullscreen();
+}
+
 document.addEventListener('DOMContentLoaded', function () {
   // Update the tabindex to prevent weird slide transitioning
   updateTabIndex();
@@ -522,11 +556,14 @@ document.addEventListener('DOMContentLoaded', function () {
     var kc = e.keyCode;
 
     // left, down, H, J, backspace, PgUp - BACK
-    // up, right, K, L, space, enter, PgDn - FORWARD
+    // up, right, K, L, space, PgDn - FORWARD
+    // enter - FULLSCREEN
     if (kc === 37 || kc === 40 || kc === 8 || kc === 72 || kc === 74 || kc === 33) {
       navigate(-1);
-    } else if (kc === 38 || kc === 39 || kc === 13 || kc === 32 || kc === 75 || kc === 76 || kc === 34) {
+    } else if (kc === 38 || kc === 39 || kc === 32 || kc === 75 || kc === 76 || kc === 34) {
       navigate(1);
+    } else if (kc === 13) {
+      toggleFullScreen();
     }
   };
 
