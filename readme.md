@@ -15,4 +15,5 @@ Questions? Get in touch [@lippytak](http://twitter.com/lippytak)!
     - and [Skitch](http://evernote.com/skitch/) for annotations.
 6. Edit the markdown (`.md`) slideshow. Just add an intro slide, lots of image slides, and a stats/author slide at the end. It should be pretty self-explanatory but feel free to [reach out](http://www.twitter.com/lippytak) with questions.
 7. Run `cleaver servicename.md` to generate the slideshow as `index.html` in the same directory.
-8. And you're done! Open `servicename/index.html` in any browser. Once everything looks right, send a pull request!
+8. Ådd a link to your new service in the root `index.md` and run `cleaver index.md` to update the index page.
+9. And you're done! Open `servicename/index.html` in any browser. Once everything looks right, send a pull request!
