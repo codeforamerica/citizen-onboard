@@ -5,7 +5,7 @@ style: ../styles.css
 
 --
 #CoveredCA
-[CoveredCalifornia](http://coveredca.com) is California's Health Insurance Exchange. All CA residents can apply for and enroll in health insurance online.Let's see how it goes...
+[CoveredCalifornia](http://coveredca.com) is California's Health Insurance Exchange. All CA residents can apply for and enroll in health insurance online. Let's see how it goes...
 
 Press → to start.
 --
