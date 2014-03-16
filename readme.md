@@ -1,5 +1,5 @@
 # Citizen Onboard
-Citizen onboard is a collaborative project to document and describe how our own government services work (and don't work). It's all hosted on Github pages: [lippytak.github.io/citizen-onboard/](). Inspired by the endlessly awesome [@UserOnboard](http://www.twitter.com/useronboard).
+Citizen onboard is a collaborative project to document and describe how our own government services work (and don't work). It's all hosted on Github pages: [http://lippytak.github.io/citizen-onboard/](). Inspired by the endlessly awesome [@UserOnboard](http://www.twitter.com/useronboard).
 
 If you have an idea for a government service to look at, just [open an issue](https://github.com/lippytak/citizen-onboard/issues) and include a bit of preliminary research. If you're feeling ambitious, take some screenshots and throw them in a public dropbox folder for everyone to peruse. If you want to do a new one from scratch, then you are awesome and should take a look at the [contribute](#contribute) section below. If you do one, I'll send you a present (no joke!).
 
