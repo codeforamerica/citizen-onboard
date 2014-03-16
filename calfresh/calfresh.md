@@ -6,24 +6,75 @@ controls: true
 --
 # CalFresh
 [CalFresh](http://www.calfresh.ca.gov/) is California's Food Stamps program. Residents in 18 counties can apply for CalFresh online through [My Benefits CalWin](https://www.mybenefitscalwin.org/). Let's see how it goes...
+
 --
-<img src="pictures/3-calwin-home.jpeg" class="bleed">
+<img src="pictures/3.1-calwin-home.jpg" class="bleed">
+--
+<img src="pictures/3.2-calwin-home.jpg" class="bleed">
+--
+<img src="pictures/3.3-calwin-home.jpg" class="bleed">
+--
+<img src="pictures/3.4-calwin-home.jpg" class="bleed">
+--
+<img src="pictures/3.5-calwin-home.jpg" class="bleed">
+--
+<img src="pictures/3.6-calwin-home.jpg" class="bleed">
 --
 <img src="pictures/4-county.jpeg" class="bleed">
 --
+<img src="pictures/4.1-county.jpg" class="bleed">
+--
+<img src="pictures/4.2-county.jpg" class="bleed">
+--
+<img src="pictures/4.3-county.jpg" class="bleed">
+--
+<img src="pictures/4.4-county.jpg" class="bleed">
+--
+<img src="pictures/4.5-county.jpg" class="bleed">
+--
+<img src="pictures/5_.1-create-acct-info.jpeg" class="bleed">
+--
+<img src="pictures/5_.2-create-acct-info.jpg" class="bleed">
+--
+<img src="pictures/5_.3-create-acct-info.jpg" class="bleed">
+--
+<img src="pictures/5_.4-create-acct-info.jpg" class="bleed">
+--
+<img src="pictures/5_.5-create-acct-info.jpg" class="bleed">
+--
+<img src="pictures/5_.6-create-acct-info.jpg" class="bleed">
+--
+<img src="pictures/5_.8-create-acct-info.jpg" class="bleed">
+--
 <img src="pictures/5-create-acct-contact-info.jpeg" class="bleed">
 --
-<img src="pictures/5-create-acct-info.jpeg" class="bleed">
+<img src="pictures/5.1-create-acct-contact-info.jpg" class="bleed">
+--
+<img src="pictures/5.2-create-acct-contact-info.jpg" class="bleed">
 --
 <img src="pictures/6-create-acct-confirm.jpeg" class="bleed">
 --
+<img src="pictures/6.1-create-acct-confirm.jpg" class="bleed">
+--
 <img src="pictures/7-create-acct-email-conf.jpeg" class="bleed">
+--
+<img src="pictures/7.1-create-acct-email-conf.jpg" class="bleed">
+--
+<img src="pictures/7.2-create-acct-email-conf.jpg" class="bleed">
+--
+<img src="pictures/7.3-create-acct-email-conf.jpg" class="bleed">
 --
 <img src="pictures/8-sign-in-username.jpeg" class="bleed">
 --
-<img src="pictures/9-sign-in-pass.jpeg" class="bleed">
+<img src="pictures/8.1-sign-in-username.jpg" class="bleed">
 --
-<img src="pictures/10-congrats.jpeg" class="bleed">
+<img src="pictures/9.1-sign-in-pass.jpg" class="bleed">
+--
+<img src="pictures/10.1-congrats.jpg" class="bleed">
+--
+<img src="pictures/10.2-congrats.jpg" class="bleed">
+--
+<img src="pictures/10.3-congrats.jpg" class="bleed">
 --
 <img src="pictures/11-apply.jpeg" class="bleed">
 --
@@ -111,11 +162,11 @@ controls: true
 
 --
 ###Stats
-- 50 screens
-- 200 questions
-- 2 errors
-- 2 hours to apply
-- 2 weeks until determination
+- ~50 screens
+- ~200 questions
+- ~2 errors (started over once)
+- ~2 hours to apply
+- ~2 weeks until determination
 
 --
 # Thanks!
