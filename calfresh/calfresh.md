@@ -8,8 +8,6 @@ controls: true
 [CalFresh](http://www.calfresh.ca.gov/) is California's Food Stamps program. Residents in 18 counties can apply for CalFresh online through [My Benefits CalWin](https://www.mybenefitscalwin.org/). Let's see how it goes...
 
 --
-<img src="pictures/3-calwin-home.jpeg" class="bleed">
---
 <img src="pictures/3.1-calwin-home.jpg" class="bleed">
 --
 <img src="pictures/3.2-calwin-home.jpg" class="bleed">
