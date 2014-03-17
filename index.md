@@ -7,7 +7,7 @@ style: styles.css
 
 # Citizen Onboard
 Citizen onboard is a collaborative project to document and describe how our own government services work (and don't work). Inspired by the endlessly awesome [@UserOnboard](http://www.twitter.com/useronboard). Here's what we have so far:
-- [CalFresh](calfresh), by [@lippytak](http://twitter.com/lippytak)
+- [CalFresh](calfresh)
 - [CoveredCA](coveredca) (draft)
 - ...more coming soon!
 
