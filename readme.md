@@ -1,7 +1,12 @@
 # Citizen Onboard
-Citizen onboard is a collaborative project to describe how our own government services work (and don't work). It's hosted on Github pages: http://lippytak.github.io/citizen-onboard/ and inspired by the endlessly awesome [@UserOnboard](http://www.twitter.com/useronboard).
+Citizen onboard is a collaborative project to describe how our own government services work (and don't work). It's hosted publically on Github pages: http://lippytak.github.io/citizen-onboard/ and inspired by the endlessly awesome [@UserOnboard](http://www.twitter.com/useronboard).
 
-If you have an idea for a government service to look at, just [open an issue](https://github.com/lippytak/citizen-onboard/issues) and include a bit of preliminary research. If you're feeling ambitious, take some screenshots and throw them in a public dropbox folder for everyone to peruse. If you want to do a new one from scratch, then you are awesome and should take a look at the [contribute](#contribute) section below. If you do one, I'll send you a present (no joke!). Present TBD.
+This is a baby project so it needs your love to grow. There's a few ways you can bring help bring it to life:
+
+1. Next time you're dealing with your government, [tweet about it with the tag #citizenonboard](https://twitter.com/search?q=%23citizenonboard&src=hash&f=realtime). Highlight the delights and the paint points. Hopefully we can build a little living library of our own experiences with government.
+2. If you have an idea for a new service to look at, [open an issue](https://github.com/lippytak/citizen-onboard/issues/new) and add what you know about it.
+3. If you're feeling a bit more ambitious, take a look at the [existing issues](https://github.com/lippytak/citizen-onboard/issues) and do some preliminary. Write about your own experience. Take some screenshots. Scan some forms. Include anything that helps describe your experience with the service and include it in a comment.
+4. If you still want more, then you're awesome. You should contribute your own CitizenOnboard slideshow. Take a look at the [contribute](#contribute) section below to get started. If you do one, I'll send you a present. I'm not joking. Present TBD.
 
 Questions? Get in touch [@lippytak](http://twitter.com/lippytak)
 
