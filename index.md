@@ -6,9 +6,13 @@ style: styles.css
 --
 
 # Citizen Onboard
-Citizen onboard is a collaborative project to document and describe how our own government services work (and don't work). Inspired by the endlessly awesome [@UserOnboard](http://www.twitter.com/useronboard). Here's what we have so far:
-- [CalFresh](calfresh)
-- [CoveredCA](coveredca) (draft)
-- ...more coming soon!
+Citizen Onboard is a collaborative project to describe how our own government services work (and don't work).
 
-Want to contribute? Please! Take a look at [our readme](https://github.com/lippytak/citizen-onboard) and get in touch with questions [@lippytak](http://twitter.com/lippytak)!
+We're just getting started. Here's what we have so far:
+- [See how to apply for CalFresh (Food Stamps)](calfresh)
+- [...make the next one yourself!](https://github.com/codeforamerica/citizen-onboard)
+
+
+Questions? Get in touch [@lippytak](http://twitter.com/lippytak).
+<br>Want to contribute? [Join us on GitHub](https://github.com/codeforamerica/citizen-onboard).
+<br>Want more? Check out [#citizenonboard](https://twitter.com/search?q=%23citizenonboard&src=hash&f=realtime).
