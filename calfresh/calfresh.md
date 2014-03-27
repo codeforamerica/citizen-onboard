@@ -303,5 +303,5 @@ controls: true
 
 --
 # Thanks!
-Thanks so much for joining me. I hope it was interesting. This one was made by [@lippytak](http://www.twitter.com/lippytak). Want more? [Check out how other government services onboard new users](http://lippytak.github.io/citizen-onboard). Want to make one of your very own? [Check out the project on Github to get started](https://github.com/lippytak/citizen-onboard)!
+Thanks so much for joining me. I hope it was interesting. This one was made by [@lippytak](http://www.twitter.com/lippytak). Want more? [Check out how other government services onboard new users](http://codeforamerica.github.io/citizen-onboard). Want to make one of your very own? [Check out the project on Github to get started](https://github.com/codeforamerica/citizen-onboard)!
 --
