@@ -1,27 +1,27 @@
-# Citizen Onboard
-Citizen onboard is a collaborative project to describe how our own government services work (and don't work). It's hosted publically on Github pages: http://codeforamerica.github.io/citizen-onboard/ and inspired by the endlessly awesome [@UserOnboard](http://www.twitter.com/useronboard).
+# CitizenOnboard is digital activism
+When [HealthCare.gov](www.healthcare.gov) didn't work, it was a big deal:
 
-This is a baby project so it needs your love to grow. There are a few ways you can help:
+![img/code-red.jpg][Code Red]
 
-1. Next time you're dealing with your government, [tweet about it with the tag #citizenonboard](https://twitter.com/search?q=%23citizenonboard&src=hash&f=realtime). Highlight the delights and the paint points.
-2. If you have an idea for a new service to look at, [open an issue](https://github.com/codeforamerica/citizen-onboard/issues/new) and add what you know about it.
-3. If you're feeling a bit more ambitious, take a look at the [existing service requests](https://github.com/codeforamerica/citizen-onboard/issues) and do some research and add it as a comment. Write about your own experience. Take some screenshots. Scan some forms. Include anything that helps describe your experience.
+It was a crisis that demanded attention from the White house and an unprecedented intervention by a [surgical tech team](http://www.slate.com/articles/technology/bitwise/2013/12/healthcare_gov_nov_30_deadline_the_tech_surge_is_working.html). It was a national emergency. But once it started working, our attention drifted. 
 
-If you *still* want more, then you're awesome. You should contribute your own CitizenOnboard slideshow. Take a look at the [contribute](#contribute) section below to get started. If you do one, I'll send you a present. I'm not joking. Present TBD.
+CitizenOnboard is a reminder that the emergency isn't over:
+>…one privilege the insured and well-off have is to excuse the terrible quality of services the government routinely delivers to the poor. Too often, the press ignores — or simply never knows — the pain and trouble of interfacing with government bureaucracies that the poor struggle with daily. That can allow the problems in those bureaucracies to fester. — [Ezra Klein](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/10/25/obamacares-problems-go-much-deeper-than-the-web-site/)
+
+Inspired by [UserOnboard](http://www.useronboard.com/), CitizenOnboard is a collaborative project to show how our own government services really work and don't work. Here's our first Onboarding Teardown for Food Stamps in California:
+![img/code-red.jpg][Code Red](http://codeforamerica.github.io/citizen-onboard/calfresh/)
+(click to see all 130 slides here)
 
 # Contribute
-If you already have a specific idea and generally know what you're doing, then just do your thang and add it to `/your_service/index.html`. If you want to make something that looks more like the [CalFresh example](http://codeforamerica.github.io/citizen-onboard/calfresh) or just want a bit more guidance, then follow these steps more closely:
+It's dead simple. You [send us the screenshots](http://dropitto.me/citizenonboard) (password = *onboard*) and we make the slideshow:
 
-1. [Install Node and NPM](https://gist.github.com/isaacs/579814#file-node-and-npm-in-30-seconds-sh)
-2. Install [Cleaver](https://github.com/jdan/cleaver/): `npm install -g cleaver` (Cleaver generates nice little slideshows from markdown)
-3. [Fork this repo](fork) and create a new branch for your service
-4. Rename the `sample` directory and `sample.md` file to the name of your service
-5. Now for the fun part: Go take a bunch of screenshots/pictures/recordings/videos/flowcharts/whatever else you can imagine to document the process of using/enrolling in the service. Aim for exhaustion over perfection. Be creative and make it fun. Use whatever tools are at your disposal. So far I've had a good experience with:
-    - [Awesome screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en) for full page screenshots,
-    - and [Skitch](http://evernote.com/skitch/) for annotations.
-6. Edit the markdown (`.md`) slideshow. Just add an intro slide, lots of image slides, and a stats/author slide at the end. It should be pretty self-explanatory but feel free to [reach out](http://www.twitter.com/lippytak) with questions.
-7. Run `cleaver servicename.md` to generate the slideshow as `index.html` in the same directory.
-8. Add a link to your new service in the root `index.md` and run `cleaver index.md` to update the index page.
-9. And you're done! Open `servicename/index.html` in any browser. Once everything looks right, make a pull request!
+1. Save a bunch of **screenshots** using [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en) (or something else)
+2. **Number** them in order (*1-homepage.png*, *2-register.png*...)
+3. If you want, **annotate** them using [Skitch](http://evernote.com/skitch/) (or something else)
+4. If you want, add a **readme.txt** with your contact info, a brief description of the service, and anything else you want to share
+5. **Zip** it up
+6. **Send us** the zip file: [www.dropitto.me/citizenonboard](http://dropitto.me/CitizenOnboard) (password = *onboard*)
 
-Questions? Get in touch [@lippytak](http://twitter.com/lippytak)!
+If you need ideas for services, [check the issues](https://github.com/codeforamerica/citizen-onboard/issues).
+
+If you have ideas for teardowns but don't want to do it yourself, [add an issue](https://github.com/codeforamerica/citizen-onboard/issues/new) for the community.
