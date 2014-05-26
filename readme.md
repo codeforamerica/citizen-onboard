@@ -26,9 +26,9 @@ It's dead simple. You [send us the screenshots](http://dropitto.me/citizenonboar
 
 We'll handle the rest and ping you know when the slideshow is up.
 
-If you need ideas for teardowns, [check the issues](https://github.com/codeforamerica/citizen-onboard/issues). Above all else, do something that is important to you.
+If you need ideas for teardowns, [check the issues](https://github.com/codeforamerica/citizen-onboard/issues). Above all else, do something that is important to the world and important to you.
 
-If you have ideas for teardowns but don't want to do it yourself, [add an issue](https://github.com/codeforamerica/citizen-onboard/issues/new) for the community.
+If you have ideas for teardowns but don't want to do it yourself, [add an issue](https://github.com/codeforamerica/citizen-onboard/issues/new) and describe why it's important.
 
 Questions? Reach out [@lippytak](http://twitter.com/lippytak)
 
