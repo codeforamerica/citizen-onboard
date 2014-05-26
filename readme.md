@@ -1,7 +1,7 @@
 # CitizenOnboard is digital activism
 When [HealthCare.gov](www.healthcare.gov) didn't work, it was a big deal:
 
-![img/code-red.jpg][Code Red]
+![Code Red](img/code-red.jpg)
 
 It was a crisis that demanded attention from the White house and an unprecedented intervention by a [surgical tech team](http://www.slate.com/articles/technology/bitwise/2013/12/healthcare_gov_nov_30_deadline_the_tech_surge_is_working.html). It was a national emergency. But once it started working, our attention drifted. 
 
@@ -9,8 +9,9 @@ CitizenOnboard is a reminder that the emergency isn't over:
 >…one privilege the insured and well-off have is to excuse the terrible quality of services the government routinely delivers to the poor. Too often, the press ignores — or simply never knows — the pain and trouble of interfacing with government bureaucracies that the poor struggle with daily. That can allow the problems in those bureaucracies to fester. — [Ezra Klein](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/10/25/obamacares-problems-go-much-deeper-than-the-web-site/)
 
 Inspired by [UserOnboard](http://www.useronboard.com/), CitizenOnboard is a collaborative project to show how our own government services really work and don't work. Here's our first Onboarding Teardown for Food Stamps in California:
-![img/code-red.jpg][Code Red](http://codeforamerica.github.io/citizen-onboard/calfresh/)
-(click to see all 130 slides here)
+
+![Felon](img/code-red.jpg)
+([see all 130 slides here](http://codeforamerica.github.io/citizen-onboard/calfresh/))
 
 # Contribute
 It's dead simple. You [send us the screenshots](http://dropitto.me/citizenonboard) (password = *onboard*) and we make the slideshow:
