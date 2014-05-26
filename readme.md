@@ -32,5 +32,5 @@ If you have ideas for teardowns but don't want to do it yourself, [add an issue]
 
 # Applying for Food Stamps in California
 The first of (hopefully) many. Check out [CitizenOnboard.com](http://citizenonboard.com) for more!
-<img src="img/calfresh-application.gif">
+<a href="http://codeforamerica.github.io/citizen-onboard/calfresh"><img src="img/calfresh-application.gif"></a>
 <sub>100% inspired by [@UserOnboard](https://twitter.com/UserOnboard)</sub>
