@@ -30,4 +30,6 @@ If you need ideas for services, [check the issues](https://github.com/codeforame
 
 If you have ideas for teardowns but don't want to do it yourself, [add an issue](https://github.com/codeforamerica/citizen-onboard/issues/new) for the community.
 
-<sub>100% inspired by [@UserOnboard](https://twitter.com/UserOnboard).</sub>
+# Example: Applying for Food Stamps in California
+<img src="img/calfresh-application.gif">
+<sub>100% inspired by [@UserOnboard](https://twitter.com/UserOnboard)</sub>
