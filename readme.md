@@ -19,7 +19,7 @@ It's dead simple. You [send us the screenshots](http://dropitto.me/citizenonboar
 
 1. Save a bunch of **screenshots** using [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en) (or something else)
 2. **Number** them in order (*1-homepage.png*, *2-register.png*...)
-3. If you want, **annotate** them using [Glui](http://glui.me) or [Skitch](http://evernote.com/skitch/) (or something else)
+3. **Annotate** them using [Glui](http://glui.me) or [Skitch](http://evernote.com/skitch/) (well, you don't *have* to annotate them, but it's the fun part!)
 4. If you want, add a **readme.txt** with your contact info, a brief description of the service, and anything else you want to share
 5. **Zip** it up
 6. **Send us** the zip file: [www.dropitto.me/citizenonboard](http://dropitto.me/CitizenOnboard) (password = *onboard*)
