@@ -9,7 +9,7 @@ It was a crisis that demanded attention from the White house and an unprecedente
 CitizenOnboard is a reminder that the emergency isn't over:
 >…one privilege the insured and well-off have is to excuse the terrible quality of services the government routinely delivers to the poor. Too often, the press ignores — or simply never knows — the pain and trouble of interfacing with government bureaucracies that the poor struggle with daily. That can allow the problems in those bureaucracies to fester. — [Ezra Klein](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/10/25/obamacares-problems-go-much-deeper-than-the-web-site/)
 
-CitizenOnboard is a collaborative project to show how our own government services really work and don't work. Here's a glimpse into applying for Food Stamps in California:
+[CitizenOnboard](citizenonboard.com) is a collaborative project to show how our own government services really work and don't work. Here's a glimpse into applying for Food Stamps in California:
 
 <a href="http://codeforamerica.github.io/citizen-onboard/calfresh/"><img src="img/ammo.png"></a>
 <!-- ![Felon](img/felon.png) -->
@@ -30,6 +30,7 @@ If you need ideas for services, [check the issues](https://github.com/codeforame
 
 If you have ideas for teardowns but don't want to do it yourself, [add an issue](https://github.com/codeforamerica/citizen-onboard/issues/new) for the community.
 
-# Example: Applying for Food Stamps in California
+# Applying for Food Stamps in California
+The first of (hopefully) many. Check out [CitizenOnboard.com](http://citizenonboard.com) for more!
 <img src="img/calfresh-application.gif">
 <sub>100% inspired by [@UserOnboard](https://twitter.com/UserOnboard)</sub>
