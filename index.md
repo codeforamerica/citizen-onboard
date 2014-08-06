@@ -6,7 +6,7 @@ style: styles.css
 --
 
 # Citizen Onboard
-CitizenOnboard is a collaborative project to show how our own government services really work and don't work.
+CitizenOnboard is an open source project to show how our own government services really work (and don't work).
 
 Teardowns:
 - [MyBenefitsCalWIN - Applying for Food Stamps in CA](calfresh)
