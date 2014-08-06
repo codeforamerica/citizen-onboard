@@ -15,7 +15,7 @@ Teardowns:
 
 Questions? Get in touch [@lippytak](http://twitter.com/lippytak).<br>
 Contribute? [Join us on Github](https://github.com/codeforamerica/citizen-onboard).<br>
-Or sign up for friendly non-spammy updates:
+Or sign up for email updates:
 <div class="email-group"> <form id="subscribe-form" method="post" action="http://tinyletter.com/CitizenOnboard">
     <input type="email" id="email" name="email" value="" placeholder=" email@example.com ">
     <button class="button" type="submit"> Subscribe </button>
