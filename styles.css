@@ -26,3 +26,49 @@ h1 {
 .controls { 
   position: fixed;
 }
+
+/* From TinyLetter */
+.email-group input {
+    display: inline;
+    float: left;
+    width: 300px;
+    margin-right: 10px;
+    min-width: 200px;
+    padding: 12px 10px 11px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    box-shadow: none;
+}
+.email-group .button {
+    width: 200px;
+    margin: 0;
+}
+
+.button {
+    display: inline-block;
+    white-space: nowrap;
+    height: 40px;
+    line-height: 42px;
+    margin-right: 5px;
+    padding: 0 22px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 14px;
+    cursor: pointer;
+    border: 0;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+.button:hover {
+    opacity: .8;
+}
+
+/* End TinyLetter */
