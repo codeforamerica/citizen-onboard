@@ -292,13 +292,8 @@ controls: true
 --
 <img src="images/52.2-confirmation.jpg" class="bleed">
 --
-###Stats
-- ~50 screens
-- ~200 questions
-- ~2 errors (started over once)
-- ~2 hours to apply
-- ~2 weeks until determination
-- And just in case you're curious, [these are the types of letters](http://lippytak.github.io/calfresh/) that you get once you're enrolled in CalFresh.
+### And last but not least...
+[These are the types of letters](http://lippytak.github.io/calfresh/) that you get once you're finally enrolled in CalFresh.
 
 --
 # Thanks!
