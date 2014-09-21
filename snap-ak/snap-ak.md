@@ -4,7 +4,9 @@ output: index.html
 controls: true
 
 --
-# SNAP in Alaska
+# How Alaska SNAP onboards new users
+SNAP is 
+[CalFresh](http://www.calfresh.ca.gov/) is California's Food Stamps program. Residents in 18 counties can apply for CalFresh online through [My Benefits CalWin](https://www.mybenefitscalwin.org/). Let's see how it goes...
 
 --
 <img src="images/welcome.jpg" class="bleed">
@@ -14,7 +16,7 @@ controls: true
 <img src="images/sad.png" class="bleed">
 --
 # Thanks!
-I know that one was short, but still thanks for joining me! This one was made by [@lippytak](http://www.twitter.com/lippytak).
+I know that one was short, but thanks for joining me anyway!
 
 Want to contribute one of your own? [Join us on Github](https://github.com/codeforamerica/citizen-onboard#contribute).
 
@@ -24,4 +26,3 @@ Want to follow along? Subscribe to loving email updates:
     <button class="button" type="submit"> Subscribe </button>
 </form>
 </div>
---
