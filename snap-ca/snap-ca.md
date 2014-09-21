@@ -297,10 +297,18 @@ controls: true
 
 --
 # Thanks!
-Thanks so much for joining me. I hope it was interesting. This one was made by [@lippytak](http://www.twitter.com/lippytak). Want more? [Check out how other government services onboard new users](http://codeforamerica.github.io/citizen-onboard). Want to make one of your very own? [Check out the project on Github to get started](https://github.com/codeforamerica/citizen-onboard)!
+Thanks so much for joining me. I hope it was interesting.
+
+Want to contribute one of your own? [Join us on Github](https://github.com/codeforamerica/citizen-onboard#contribute).
+
+Want to follow along? Subscribe to loving email updates:
+<div class="email-group"> <form id="subscribe-form" method="post" action="http://tinyletter.com/CitizenOnboard">
+    <input type="email" id="email" name="email" value="" placeholder="Enter your email address for loving updates">
+    <button class="button" type="submit"> Subscribe </button>
+</form>
+</div>
 --
 ###Oh, and one last thing
 Here's a .gif for your viewing (and speed reading) pleasure! Next slide...
 --
 <img src="images/calfresh-application.gif" class="bleed">
---
