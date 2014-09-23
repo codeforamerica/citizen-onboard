@@ -1,7 +1,7 @@
 # CitizenOnboard
 [CitizenOnboard](http://citizenonboard.com) is a national project to understand how our own government services work - and don't work. We tear down so we can build up.
 
-# Contribute your own teardown
+# Contribute
 If you send us a slideshow (Keynote or PPT work), we'll do the rest:
 
 1. **Pick a service** (if you need ideas, start with the [SNAP Census](#16)).
