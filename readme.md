@@ -1,4 +1,5 @@
-# CitizenOnboard
+![demo](img/CO-logo.gif)
+
 [CitizenOnboard](http://citizenonboard.com) is a national project to understand how our own government services work - and don't work. We tear down so we can build up.
 
 # Contribute
