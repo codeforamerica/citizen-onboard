@@ -1,9 +1,9 @@
 ![demo](img/CO-logo.gif)
 
-[CitizenOnboard](http://citizenonboard.com) is a national project to understand how our own government services work - and don't work. We tear down so we can build up.
+[CitizenOnboard](http://citizenonboard.com) is a national project to understand how our own government services work - and don't work. It's a grassroots effort to document the experience of using key government services and monitor their availability.
 
 # Contribute
-If you send us a slideshow (Keynote or PPT work), we'll do the rest:
+The primary way you can contribute is by documenting your experience using a digital service provided by the government in your community. If you send us a slideshow (Keynote or PPT work), we'll do the rest:
 
 1. **Pick a service** (if you need ideas, start with the [SNAP Census](https://github.com/codeforamerica/citizen-onboard/issues/16).
 2. Go through the service yourself and take a bunch of **screenshots** using [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en) (or something else).
