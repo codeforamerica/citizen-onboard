@@ -9,7 +9,7 @@ style: styles.css
 CitizenOnboard is a national project to understand how our own government services work (and don't work). We tear down so we can build up.
 
 Teardowns:
-- [How Oregon SNAP onboards new users](http://www.useronboard.com/how-oregonsnap-onboards-new-users/), by [@samhulick](http://www.twitter.com/samhulick)
+- [How Oregon SNAP onboards new users](http://www.useronboard.com/how-oregonsnap-onboards-new-users/), by [@samuelhulick](http://www.twitter.com/samuelhulick)
 - [How California SNAP onboards new users](snap/ca), by [@lippytak](http://www.twitter.com/lippytak)
 - [How CoveredCA onboards new users](exchanges/ca), by [@alanjosephwilli](http://www.twitter.com/alanjosephwilli)
 - [How Washington SNAP onboards new users](snap/wa), by [@mollyampersand](http://www.twitter.com/mollyampersand)
