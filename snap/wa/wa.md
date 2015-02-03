@@ -6,6 +6,8 @@ controls: true
 --
 <img src="images/WA-SNAP.001.jpg" class="bleed">
 --
+<img src="images/WA-SNAP.001-molly.jpg" class="bleed">
+--
 <img src="images/WA-SNAP.002.jpg" class="bleed">
 --
 <img src="images/WA-SNAP.003.jpg" class="bleed">
